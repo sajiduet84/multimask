@@ -5,3 +5,5 @@ CSS
 Node.js
 React
 Python
+
+Welcome to Smartgit repo
