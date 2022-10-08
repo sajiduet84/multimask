@@ -4,3 +4,4 @@ Html
 CSS
 Node.js
 React
+Python
